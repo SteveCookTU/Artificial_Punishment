@@ -1,0 +1,17 @@
+name: Artificial Punishment
+main: punish.main
+description: Punish Your Players
+version: 1.1.0
+author: imaboy321
+
+commands:
+  slap:
+   description: Slap the crap out of someone! (2 hearts)
+  spank:
+   description: Spank someone's butt! (4 hearts)
+  punch:
+   description: Punch someone in the face! (3 hearts)
+  fart:
+   description: Give someone a "Beef Stew" (Special Effect)
+  artpun:
+   description: List the commands for Artificial Punishment!
